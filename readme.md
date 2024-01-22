@@ -1,2 +1,2 @@
 # new project 
-project crreated
+project crreated new way
